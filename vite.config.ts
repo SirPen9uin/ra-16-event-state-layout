@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/layout/',
+  base: '/ra-16-event-state-layout/',
   plugins: [react()],
 })
